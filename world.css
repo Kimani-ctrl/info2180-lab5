@@ -1,1 +1,9 @@
-/* Add your own styles */
+h1{
+    background-color: teal;
+}
+#lookup:hover{
+    color: violet;
+}
+#cities:hover{
+    color: violet;
+}
